@@ -26,4 +26,16 @@ This SQL script defines a normalized database schema for a personal finance trac
 
 Problem Statement 2:
 
+1-Where would you rate yourself on (LLM, Deep Learning, AI, ML). A, B, C [A = can code independently; B = can code under supervision; C = have little or no understanding]
+
+
+| Area                             | Rating | Explanation                                                                                                                                                                                                                                                                    |
+| -------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Artificial Intelligence (AI)** | **B**  | I have a practical understanding of AI concepts such as problem formulation, rule-based systems, and ML-driven decision making. I can build basic AI applications and integrate existing AI tools under supervision while continuing to strengthen fundamentals.               |
+| **Machine Learning (ML)**        | **B**  | I understand core ML concepts including supervised and unsupervised learning, feature extraction, model evaluation, and basic algorithms. I can implement ML solutions with guidance and have hands-on exposure through small projects and experimentation.                    |
+| **Deep Learning (DL)**           | **C**  | I have a foundational theoretical understanding of neural networks and deep learning concepts, but limited hands-on implementation experience. I am actively learning architectures and training workflows to move toward practical usage.                                     |
+| **Large Language Models (LLMs)** | **B**  | I have a conceptual understanding of how LLMs work, including prompting and basic API usage, but limited experience building end-to-end LLM systems independently. I am currently focusing on learning LLM architectures, prompt design and integration patterns such as RAG. |
+
+2-What are the key architectural components to create a chatbot based on LLM? Please explain the approach on a high-level
+
 
